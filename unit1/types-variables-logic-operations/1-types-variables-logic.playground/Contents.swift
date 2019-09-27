@@ -1,3 +1,8 @@
+import UIKit
+
+var str = "Hello, playground"
+
+
 //
 //  main.swift
 //  Variables
